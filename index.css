@@ -1,0 +1,58 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: rgb(243, 66, 96);
+    font-size: 4rem;
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: 0;
+}
+h3{
+    color: rgb(243, 66, 96);
+    font-size: 2rem;
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+svg {
+    height: 600px;
+    width: 1000px;
+}
+#drumNish{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.keys{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.drum{
+    color: rgb(243, 66, 96);
+    font-size: 2rem;
+    height:5rem;
+    width: 5rem;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    background-color: aliceblue;
+    border-color:  rgb(243, 66, 96);
+    border-radius: 1rem;
+    border-width: 5px;
+    padding-bottom: 80px ;
+
+}
+.subText{
+    font-size: 1rem;
+    margin-bottom: 50px;
+}
